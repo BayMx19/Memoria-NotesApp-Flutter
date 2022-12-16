@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267735820727",
+    "project_id": "fluttermemoria",
+    "storage_bucket": "fluttermemoria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267735820727:android:74570465ed53cad96ce032",
+        "android_client_info": {
+          "package_name": "com.example.memoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267735820727-k84llk0ufpm36svn8liuj652hq688ams.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDucF7rrqBCX-zue4OseMUKk86nBxe5E_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267735820727-k84llk0ufpm36svn8liuj652hq688ams.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
